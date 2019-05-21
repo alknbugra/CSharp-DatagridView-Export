@@ -1,5 +1,9 @@
 # CSharp-DatagridView-Export
 
+![Ekran Alıntısı](https://user-images.githubusercontent.com/29266933/58075038-4e9e4800-7baf-11e9-9e77-530002ff4437.PNG)
+![Ekran Alıntısı_1](https://user-images.githubusercontent.com/29266933/58075039-4f36de80-7baf-11e9-8281-52da3347a9b6.PNG)
+![Ekran Alıntısı_2](https://user-images.githubusercontent.com/29266933/58075040-4f36de80-7baf-11e9-86c9-d94893110993.PNG)
+
 ```sh
 ## ---- > Button 1 (for  SafeFileDialog)
 

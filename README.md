@@ -41,9 +41,11 @@ this.Cursor = Cursors.AppStarting;
             }
 
             this.Cursor = Cursors.Default; 
+            ```
             
 ## ---- > BackgroundWorker 1 (for  async)
             
+            ```sh
             pictureBox3.Image = Properties.Resources.icons8_save_as_80;
             label5.Text = "Kayıt Ediliyor";
             pictureBox3.Enabled = false;
